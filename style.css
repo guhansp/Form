@@ -1,0 +1,24 @@
+body
+{
+    background-color: #84C4CB;
+}
+#appli
+{
+    border: 2px solid black;
+    
+    width: 400px;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding: 10px;
+}
+
+#feed
+{
+    border: 2px solid black;
+    
+    width: 400px;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding: 10px;
+
+}
